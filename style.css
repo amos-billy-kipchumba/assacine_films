@@ -61,6 +61,7 @@ header {
 }
 .navbar-left > a > img{
     width: 200px;
+    margin: 10px auto;
 }
 
 .portfolio__item {
@@ -78,13 +79,13 @@ header {
     padding-bottom: 5px;
     padding-left: 20px;
     display: flex;
+    align-items: center;
     justify-content: space-between;
 }
 .navbar-right > ul{
     list-style-type: none;
     text-decoration: none;
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 .navbar-right > ul >li{
@@ -93,8 +94,8 @@ header {
     align-items: center;
     text-align: center;
     justify-content: center;
-    margin-top: 20px;
-    margin-bottom: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-decoration: none;
     position: relative;
 }
