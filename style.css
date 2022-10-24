@@ -1138,7 +1138,7 @@ header {
     margin-bottom: 10px;
     border-radius: 10px;
 }
-.section-service >h1{
+.section-service >h2{
     font-size: 30px;
     text-align: center;
     color: #440303;
@@ -1489,7 +1489,7 @@ header {
     text-align: center;
     background-color: #fff;
 }
-.section-project-header >h1{
+.section-project-header >h2{
    color: #440303;
    margin-top: 20px;
    margin-bottom: 20px;
@@ -1877,7 +1877,7 @@ header {
         width: 100%;
         height: 100%;
     }
-    .section-project-header >h1{
+    .section-project-header >h2{
         margin-left: 50%;
         transform: translateX(-50%);
     }
