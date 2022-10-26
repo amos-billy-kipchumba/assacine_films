@@ -1283,7 +1283,7 @@ header {
         height: 100%;
         overflow: hidden;
     }
-    .section-service >h1{
+    .section-service >h2{
         font-size: 30px;
         text-align: center;
     }
